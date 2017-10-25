@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 47,
+    "uniqCompNum": 50,
     "versionPublish": "4.3.4",
     "theme": {
       "name": "mobirise4",
@@ -25,7 +25,7 @@
         "display7Font": "Open Sans Condensed",
         "display7Size": "1",
         "display4Font": "Open Sans",
-        "display4Size": "1",
+        "display4Size": "1.4",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
